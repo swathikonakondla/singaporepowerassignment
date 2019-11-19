@@ -1,0 +1,6 @@
+framework module Pods_GetMeThePSITests {
+  umbrella header "Pods-GetMeThePSITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
